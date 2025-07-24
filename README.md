@@ -416,7 +416,7 @@ yarn dev</code></pre>
         <h2 id="contact">Contact</h2>
         <p>If you have any questions, feel free to reach out:</p>
         <ul>
-            <li><strong>Email:</strong> <a href="mailto:suryavigenshkapuganti@gmail.com">support@ragchatbot.com</a> (placeholder)</li>
+            <li><strong>Email:</strong> <a href="mailto:suryavigenshkapuganti@gmail.com">suryavigenshkapuganti@gmail.com</a> (placeholder)</li>
             <li><strong>GitHub Issues:</strong> <a href="https://github.com/suryavignesh1304/Agentic-RAG-bot/issues">[Link to your GitHub Issues page]</a></li>
         </ul>
     </div>
