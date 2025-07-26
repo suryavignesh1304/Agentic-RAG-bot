@@ -409,6 +409,12 @@ yarn dev</code></pre>
         <h3>Statistics Dashboard</h3>
         <img src="demo/stats.png" alt="Screenshot of the Statistics Dashboard">
         <p class="text-center text-gray-600">A dashboard showing usage statistics like total documents and messages.</p>
+         <h2 id="project-demos">Project Demos</h2>
+    <p>Download the presentation: 
+        <a href="https://docs.google.com/presentation/d/12rvPI2HGj5R22C8G5u6936kYVLo2f7Qx/edit?usp=drivesdk&ouid=114490552652080860707&rtpof=true&sd=true" download>
+            RAG-Chatbot-Revolutionising-Document-Interaction.pptx
+        </a>
+    </p>
         <h2 id="contributing">Contributing</h2>
         <p>Contributions are welcome! If you have suggestions for improvements or find a bug, please open an issue or submit a pull request.</p>
         <h2 id="license">License</h2>
